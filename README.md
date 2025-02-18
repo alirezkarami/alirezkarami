@@ -29,7 +29,7 @@
 
 ## 🚀 My Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,python,react,nextjs,js,ts,tailwind,html,css,git,github,linux,docker,bash,nginx,ansible" />
+  <img src="https://skillicons.dev/icons?i=django,python,js,ts,tailwind,html,css,git,github,linux,docker,bash,nginx,ansible" />
 </p>
 
 ---
